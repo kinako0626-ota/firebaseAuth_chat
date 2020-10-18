@@ -1,6 +1,6 @@
 # flutter_firebase_chat_dev
 
-A new Flutter application.
+FirebaseAuth,Firestore,cloud_functionsを使ったチャットアプリ
 
 ## Getting Started
 
